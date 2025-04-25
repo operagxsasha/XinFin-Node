@@ -201,4 +201,5 @@ Public discussions on the technical issues, post articles and request for Enhanc
 - [Telegram](http://bit.do/Telegram-XinFinDev)
 - [Reddit](https://www.reddit.com/r/xinfin/)
 - [GitHub](https://github.com/XinFinorg)
+- [X/Twitter](https://x.com/XDC_Network_)
 - [XinFin FAQs](https://howto.xinfin.org/general/faq/)
